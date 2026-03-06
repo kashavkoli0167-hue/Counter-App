@@ -31,7 +31,7 @@ counter-app
 
 ## 📸 Screenshot
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d52417ea-cd44-4e5b-98f5-47ec03097448" />
 
 ## 👨‍💻 Author
 
